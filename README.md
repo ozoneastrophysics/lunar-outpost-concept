@@ -5,7 +5,7 @@ The Moon that you know of is a natural satelite that orbits around our planet, E
 
 # The Idea
 
-It has been thought for quite a while that it is a good idea to create an outpost on the Moon, and the reasons for this keep getting larger as time goes on. One of the main reasons of this is that it will help humanity get used to surviving on harsh, isolated planets for further colonization, such as Mars. Lunar outposts could also help us with experimenting on radiation, since there is a lot of it on the moon due to it not having an atmosphere. The last reason that I will mention is resources. The moon has Helium-3, which is extremely rare on Earth and can be used to create fusion reactors in the near future. Rare Earth metals and other useful resources are also present there. There are many other reasons for this being a good idea aswell. 
+It has been thought for quite a while that it is a good idea to create an outpost on the Moon, and the reasons for this keep getting larger as time goes on. One of the main reasons of this is that it will help humanity get used to surviving on harsh, isolated planets for further colonization, such as Mars. Lunar outposts could also help us with experimenting with radiation, since there is a lot of it on the moon due to it not having an atmosphere. The last reason that I will mention is resources. The moon has Helium-3, which is extremely rare on Earth and can be used to create fusion reactors in the near future. Rare Earth metals and other useful resources are also present there. There are many other reasons for this being a good idea aswell. 
 
 
 # The Concept
