@@ -17,4 +17,6 @@ There are many diagrams and plans of concepts about Moon bases which I will talk
 - Designed for crew rotations every 6 months or so
 - Flexible structures that can be set up in different environment, such as caves
 
-The obvious parts to the plan are the usual with space travel. First off food - and a lot of it. The food must have all the correct nutrients for the human body to live and function correctly, be stored efficiently in order for humans to survive for months without any resupplies,
+The obvious parts to the plan are the usual with space travel. First off food - and a lot of it. The food must have all the correct nutrients for the human body to live and function correctly, be stored efficiently in order for humans to survive for months without any resupplies, and lastly, at least taste appealing.
+
+The mental health of the crew is equally important to their physical health, since it will keep them motivated, more productive, and sane. 6 months shouldn't be too long for the crew to lose their sanity, and it will also endure them for longer, more harsh missions.
