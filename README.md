@@ -21,12 +21,26 @@ There are many diagrams and plans of concepts about Moon bases which I will talk
 
 The obvious parts to the plan are the usual with space travel. First off food - and a lot of it. The food must have all the correct nutrients for the human body to live and function correctly, be stored efficiently in order for humans to survive for months without any resupplies, and lastly, at least taste appealing.
 
-Humans must also be exercising daily, to prevent muscle and bone fatigue 
+Humans must also be exercising daily, to prevent muscle and bone loss. They would need to exercise with equipment specifically designed for space, due to micro gravity, since objects are lighter there. The Moon's surface gravity is approximately 1.62 m/s², which is around 6 times weaker than Earth's surface gravity of around 9.8 m/s². A solution that could be eventually implemented to this is a moving habitat, which simulates a closer surface gravity to Earth. 
 
 The mental health of the crew is equally important to their physical health, since it will keep them motivated, more productive, and sane. 6 months shouldn't be too long for the crew to lose their sanity, and it will also endure them for longer, more harsh missions.
 
 <img src="https://user-images.githubusercontent.com/91910634/157285219-b9a8a686-b961-43c7-bea6-ec78b127c3f7.png" width="600">
 
 
-# References and Sources
+# The Artemis Program
 
+The Artemis Program is a space exploration program mainly lead by NASA. The first stage of the plan is to land on and explore the moon, with a human landing happening by 2024. Later in the decade, sustainable exploration will be looked towards.
+
+
+# Sources
+
+[The Moon](https://en.wikipedia.org/wiki/Moon "Wikipedia") - Wikipedia
+
+[How We Could Build a Moon Base TODAY](https://www.youtube.com/watch?v=NtQkz0aRDe8 "YouTube") - Kurzgesagt
+
+[Exercising in Space](https://www.nasa.gov/audience/foreducators/stem-on-station/ditl_exercising/ "NASA") - NASA
+
+[The Artemis Program](https://www.nasa.gov/specials/artemis/ "NASA") - NASA
+
+[The Artemis Plan (PDF)](https://www.nasa.gov/sites/default/files/atoms/files/artemis_plan-20200921.pdf "NASA") - NASA
