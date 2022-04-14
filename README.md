@@ -33,7 +33,11 @@ The mental health of the crew is equally important to their physical health, sin
 
 ## The Artemis Program
 
-The Artemis Program is a space exploration program mainly lead by NASA. The first stage of the plan is to land on and explore the moon, with a human landing happening by 2024. Later in the decade, sustainable exploration will be looked towards.
+The Artemis Program is a space exploration program mainly lead by NASA. The first stage of the plan is to land on and explore the moon, with a human landing happening by 2024. Later in the decade, sustainable exploration will be looked towards. It will contribute massively to the exploration and future colonisation of Mars, as the NASA astronauts will learn how to deal with the harsh conditions.
+
+Artemis I will be an uncrewed Orion SLS (Space Launch System) rocket will be a demonstration of the performance of the SLS rocket and gather engeneering data before it returns to Earth at approximately 24,500 miles per hour (39400~ km/h). The reentry at this speed will be a test of the heat sheild's performance as it will heat up to almost 2760°C (5000°F).
+
+
 
 
 ## Sources
