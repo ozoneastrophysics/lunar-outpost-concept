@@ -1,5 +1,5 @@
 # Lunar Outpost Concept
-Started 7/3/22, written by Ozone.
+Started on 7/3/22, written by Ozone.
 
 ## Introduction
 
