@@ -31,12 +31,18 @@ The mental health of the crew is equally important to their physical health, sin
 <img src="https://user-images.githubusercontent.com/91910634/157285219-b9a8a686-b961-43c7-bea6-ec78b127c3f7.png" width="600">
 
 
+
+
 ## The Artemis Program
 
 The Artemis Program is a space exploration program mainly lead by NASA. The first stage of the plan is to land on and explore the moon, with a human landing happening by 2024. Later in the decade, sustainable exploration will be looked towards. It will contribute massively to the exploration and future colonisation of Mars, as the NASA astronauts will learn how to deal with the harsh conditions.
 
-Artemis I will be an uncrewed Orion SLS (Space Launch System) rocket will be a demonstration of the performance of the SLS rocket and gather engeneering data before it returns to Earth at approximately 24,500 miles per hour (39400~ km/h). The reentry at this speed will be a test of the heat sheild's performance as it will heat up to almost 2760°C (5000°F).
+Artemis I will be an uncrewed Orion SLS (Space Launch System) rocket will be a demonstration of the performance of the SLS rocket and gather engeneering data before it returns to Earth at approximately 24,500 miles per hour (39400~ km/h). The reentry at this speed will be a test of the heat sheild's performance as it will heat up to almost 2760°C (5000°F). Throughout the 4-6 weeks that this mission will take, Orion will travel around 1.4 million miles which breaks the record that Apollo 13 currently held of distance travelled from Earth in a space craft which was designed for humans. Preperation and testing for the launch has already started, and production for the SLS engines has been completed. 
 
+Artemis II will be the first manned flight of the mission, and the first time SLS and Orion has carried people. 4 astronauts will be sent to the moon, marking it the first time in more than 50 years by the time this happens. With the confidence and testing of the prior rocket, the mission will take around 10 days, and will also set the record for the farthest human travel, since it will be going beyond the far side of the moon in its return. The spacecraft will orbit Earth twice - both elliptical; the first orbit with an altitude of 115 by 1800 miles taking 90 around minutes, going into a high-Earth orbit (HEO) after the first firing of the interim cryogenic propulsion stage (ICPS), causing it to fly between 200 and 59000 miles above Earth for around 42 hours. After reaching this orbit, Orion will seperate from the ICPS. After HEO, Orion will take a path to the moon with a free-return trajectory, taking around 4 days to get to the moon. The path of Orion would have created a figure of 8 as it makes its way home after going around the moon. This demonstration will provide enough data for the beginning orf Artemis III.
+
+
+Artemis III
 
 
 
@@ -44,7 +50,7 @@ Artemis I will be an uncrewed Orion SLS (Space Launch System) rocket will be a d
 
 [The Moon](https://en.wikipedia.org/wiki/Moon "Wikipedia") - Wikipedia
 
-[How We Could Build a Moon Base TODAY](https://www.youtube.com/watch?v=NtQkz0aRDe8 "YouTube") - Kurzgesagt
+[New Space](https://www.liebertpub.com/toc/space/4/1 "Liebertpub") - New Space (Vol. 4, No. 1)
 
 [Exercising in Space](https://www.nasa.gov/audience/foreducators/stem-on-station/ditl_exercising/ "NASA") - NASA
 
